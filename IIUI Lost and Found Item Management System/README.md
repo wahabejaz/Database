@@ -51,6 +51,8 @@ The system is fully normalized (3NF), ensuring no data redundancy.
 *(see screenshots below)*
 
 ---
+## Demo Video
+[Click here](https://www.linkedin.com/posts/wahab-ejaz-025821283_semesterproject-lostandfoundsystem-msaccess-activity-7335581676649046016-rFxr?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAET_uN0BcIvAcZWxWDuCqYgZxpVojNFCYHw)
 
 ## Screenshots
 
